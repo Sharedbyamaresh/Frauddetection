@@ -11,4 +11,4 @@ def model3():
     print('Code for model 3')
 
 
-print('Model 2 is performing better')
+# print('Model 2 is performing better')
